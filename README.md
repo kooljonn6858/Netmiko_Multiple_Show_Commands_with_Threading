@@ -1,6 +1,6 @@
 # Netmiko_Multiple_Show_Commands
 
-This is a simple Netmiko script to gather multiple show commmands output fromm multiple devices(Cisco in this case). The script allows to login to multiple devices simultaneously and gather the show commands output faster.
+This is a simple Netmiko script to gather multiple show commands output from multiple devices(Cisco in this case). The script allows to login to multiple devices simultaneously and gather the show commands output faster.
 
 The device_list in the example is a txt file with hostnames or IP addresses.\
 **Example:**\
